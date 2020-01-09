@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap');
+
+@font-face {
+  font-family: 'BeyondFont';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Tangerine'), url('fonts/BeyondWonderland.ttf') format('truetype');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Inconsolata', monospace;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  text-align: center;
+  background-color: #bbded6;
+}
